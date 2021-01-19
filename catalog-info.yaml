@@ -12,7 +12,7 @@ metadata:
   annotations:
     sda.se/summary: |
       iOS app of our whitelabel solution
-    backstage.io/techdocs-ref: github:https://github.com/adrianbarwicki/backstage-catalog-yml.git
+    backstage.io/techdocs-ref: dir:./
 spec:
   type: library
   owner: appteam
