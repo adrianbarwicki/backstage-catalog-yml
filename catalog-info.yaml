@@ -10,10 +10,9 @@ metadata:
     - os-web
     - app-plate
   annotations:
-    sda.se/summary: |
-      iOS app of our whitelabel solution
+    bitrise/app: "kundenapp-ios"
     backstage.io/techdocs-ref: dir:./
 spec:
-  type: library
+  type: website
   owner: appteam
   lifecycle: production
