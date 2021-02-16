@@ -10,7 +10,7 @@ metadata:
     - os-web
     - app-plate
   annotations:
-    bitrise/app: "kundenapp-ios"
+    bitrise.io/app: "kundenapp-ios"
     backstage.io/techdocs-ref: dir:./
 spec:
   type: website
